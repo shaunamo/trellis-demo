@@ -3,7 +3,7 @@
 # Define accompanying passwords/secrets in group_vars/production/vault.yml
 
 wordpress_sites:
-  roots-example-project.com:
+  dev.safewords.co.uk:
     site_hosts:
       - canonical: dev.safewords.co.uk
         redirects:
